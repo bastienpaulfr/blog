@@ -5,6 +5,3 @@
 	path = public
 	url = git@github.com:bastienpaulfr/bastienpaulfr.github.io.git
 	branch = master
-[submodule "themes/npq"]
-	path = themes/npq
-	url = git@github.com:saadnpq/npq-hugo.git
