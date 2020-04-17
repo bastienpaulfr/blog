@@ -1,4 +1,4 @@
 baseURL = "http://bastien.famillepaul.fr/"
 languageCode = "en-us"
 title = "Bastien Paul's Blog"
-theme = "ananke"
+theme = "npq-hugo"
