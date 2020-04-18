@@ -4,8 +4,6 @@ date: 2019-01-24T15:03:38+02:00
 draft: false
 ---
 
-# Use Dagger Provider with Android Material Stepper
-
 On an Android project, I am using [android-material-stepper](https://github.com/stepstone-tech/android-material-stepper) from StepStone. I am also using dependency injection with [dagger](https://google.github.io/dagger/).
 
 I was facing the following problem : How to properly inject `Fragments` without the need to create a `DaggerComponent` for each of them ?

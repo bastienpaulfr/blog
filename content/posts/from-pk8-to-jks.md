@@ -4,9 +4,6 @@ date: 2016-11-14T15:03:19+02:00
 draft: false
 ---
 
-# Android : Créer un fichier keystore (jks) à partir d’une clé (.pk8) et d’un certificat (.pem)
-
-
 - Extraire la clé contenue dans le fichier pk8 et la mettre en clair dans un fichier pem
 
 ```sh

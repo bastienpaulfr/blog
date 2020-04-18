@@ -4,8 +4,6 @@ date: 2019-03-01T15:04:06+02:00
 draft: false
 ---
 
-# How to create a circlular file logger with Timber
-
 In some applications, I need to store my logs in a file aside of traditional logcat. For this, I am making use of [Timber](https://github.com/JakeWharton/timber) library. Because I don’t want to make my device full of logs, I wanted to use circular log files so that I can control the maximum amount of bytes taken by log data. To achieve this, I will use java Logger API to implement a new `Timber.Tree`. I also want some feature like log formatting and filtering.
 
 All of this is implemented by [Treessence](https://github.com/bastienpaulfr/Treessence) library.

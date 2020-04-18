@@ -4,8 +4,6 @@ date: 2020-03-30T15:04:26+02:00
 draft: false
 ---
 
-# Add a new line at the end of each text files tracked by git
-
 One of the most anoying thing I meet when I am coding software, is the « No new line at end of file » warning.
 
 ![manifest](/nl.png)

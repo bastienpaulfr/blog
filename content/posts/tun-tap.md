@@ -4,8 +4,6 @@ date: 2010-12-08T11:27:07+02:00
 draft: false
 ---
 
-# The TUN/TAP interface on Linux
-
 Recently, I had to work with the tun interface on Linux. There is not a lot of documentation on this subject so here is a little presentation.
 
 TUN/TAP is like a physical Ethernet port but for user space program. Instead of receiving data from a physical device, it receives it from a user space program and instead of sending data through a wire, sends it to a user space program.

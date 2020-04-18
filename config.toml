@@ -1,4 +1,8 @@
 baseURL = "http://bastien.famillepaul.fr/"
 languageCode = "en-us"
 title = "Bastien Paul's Blog"
-theme = "npq-hugo"
+theme = "hugo-notepadium"
+copyright = "©2020 Bastien PAUL."
+
+[params]
+style = "dark"  # default: auto. light: light theme, dark: dark theme, auto: based on system.

@@ -4,8 +4,6 @@ date: 2014-08-04T15:02:32+02:00
 draft: false
 ---
 
-# Mutex Locker
-
 ## Préambule
 
 Le mutex locker fait partie du concept de [RAII](http://fr.wikipedia.org/wiki/RAII). Cette acronyme vient de l’anglais Resource Acquisition Is Initialization. C’est une technique de programmation qui permet de s’assurer que la ressource acquise sera bien libérée à la fin de la vie d’un objet.

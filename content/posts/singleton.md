@@ -4,8 +4,6 @@ date: 2014-08-04T15:02:16+02:00
 draft: false
 ---
 
-# Singleton
-
 ## Présentation
 
 Le singleton est un patron de conception (design pattern) dont le but est de restreindre l’instanciation  d’une classe à un nombre défini d’objets. Il est utilisé lorsque l’on a besoin que d’un seul objet pour coordonner des actions dans un système. Par exemple, le singleton va être utilisé comme gestionnaire de fenêtre, gestionnaire de systèmes de fichiers ou d’imprimantes. Le singleton va être disponible de manière globale dans un package et sera utilisé comme étant un point d’accès.

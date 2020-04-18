@@ -4,8 +4,6 @@ date: 2014-08-04T15:02:57+02:00
 draft: false
 ---
 
-# Assert Statique
-
 L’utilisation d’un assert statique peut être utile dans le cas ou une condition doit être testée au moment de la compilation. Par exemple la taille d’un tableau. Le principe est d’utiliser une macro pour définir une expression. Si le test est valide alors l’expression générée l’est aussi, sinon elle résulte en une erreur de compilation.
 
 ```c++

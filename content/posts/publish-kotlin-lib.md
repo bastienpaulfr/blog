@@ -4,8 +4,6 @@ date: 2019-02-08T15:03:53+02:00
 draft: false
 ---
 
-# Publish a Kotlin lib with gradle Kotlin DSL
-
 I wanted to play more with Kotlin and I wanted to publish [KGeoGson](https://github.com/bastienpaulfr/geojson-kotlin) lib to a remote maven repo.
 
 I was following [gradle guide](https://guides.gradle.org/building-kotlin-jvm-libraries/) to build my kotlin project with Kotlin DSL.
